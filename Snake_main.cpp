@@ -4,7 +4,7 @@
 	a small exercise
 */
 
-#include "sanke.h"
+#include "snake.h"
 #include <cstdio>
 #include <Windows.h>
 #include <conio.h>
